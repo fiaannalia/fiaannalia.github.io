@@ -22,7 +22,7 @@ role: Data Analyst / Data Scientist / ML Engineer
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Fresh Graduate Informatics Student
-    url: 
+    url: ''
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -74,8 +74,8 @@ work:
     company_name: Sanber Foundation
     company_url: ''
     company_logo: ''
-    date_start: 2024-02
-    date_end: 2024-06
+    date_start: 2024-02-01
+    date_end: 2024-06-01
     summary: |2-
       - User Research & Data Synthesis: Conducted qualitative and quantitative user research, including surveys and interviews, to identify key pain points in public transportation usage. Synthesized findings into actionable insights to guide design decisions.
       - Project Leadership: Led a team as Project Manager in building Angkot-In, a mobile app for Bandung’s public transport users. Translated user insights into core features like route search, real-time tracking, and fare estimation.
@@ -85,8 +85,8 @@ work:
     company_name: Telkom University
     company_url: ''
     company_logo: ''
-    date_start: 2023-10
-    date_end: 2024-06
+    date_start: 2023-10-01
+    date_end: 2024-02-01
     summary: |2-
       - Instructional Support & Grading: Evaluated and provided feedback on over 80 student assignments related to logical reasoning, truth tables, Big O notation, and algorithmic complexity, ensuring accurate assessment and conceptual clarity.
       - Analytical Concept Delivery: Facilitated response classes to explain abstract concepts such as propositional/predicate logic, asymptotic analysis, and optimization techniques, fostering student engagement and analytical thinking.
@@ -97,8 +97,8 @@ work:
     company_name: LokaUKM
     company_url: ''
     company_logo: ''
-    date_start: 2023-07
-    date_end: 2023-09
+    date_start: 2023-07-01
+    date_end: 2023-09-01
     summary: |2-
       - Wireframing & Prototyping: Designed low- to high-fidelity wireframes and interactive prototypes to support user-centered product development.
       - User-Centered Design: Interpreted user requirements and feedback into design improvements, ensuring the final product met both functional and user needs.
@@ -131,7 +131,7 @@ languages:
     percent: 100
   - name: English
     percent: 75
-  - name: Germany
+  - name: German
     percent: 50
 
 projects:
