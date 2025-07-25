@@ -134,7 +134,7 @@ languages:
   - name: German
     percent: 50
 
-projects:
+awards:
 - title: Customer Segmentation Analysis – Olist E-Commerce
   date: '2025-06'
   date_end: '2025-07'
