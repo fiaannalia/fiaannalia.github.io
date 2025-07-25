@@ -41,7 +41,7 @@ education:
   - area: Data Science & Machine Learning
     institution: Purwadhika Digital Technology School
     date_start: 2025-01-01
-    date_end: 'present'
+    current: true
     summary: |
       Focused on data preprocessing, data analysis and visualization, machine learning, and project-based implementation.
 
