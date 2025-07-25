@@ -48,8 +48,13 @@ education:
     date_start: 2021-09-01
     date_end: 2025-03-01
     summary: |
-      GPA: 3.88/4.00  
-      Thesis: “AI-Generated Text Detector for English Written Essay using Ensemble RoBERTa”  
+    GPA: 3.88/4.00  
+      Thesis on _AI-Generated Text Detector for English Written Essay using Ensemble RoBERTa_. 
+      Supervised by Dr. K. M. Lhaksmana. The research addresses academic integrity concerns in the era of Large Language Models by proposing an ensemble RoBERTa-based classifier. 
+      The paper was published in IEEE and presented at the 2025 International Conference on Advancement in Data Science, E-learning and Information System (ICADEIS).
+    button:
+      text: 'Read Publication'
+      url: 'https://doi.org/10.1109/ICADEIS65852.2025.10933353'
 
 work:
   - position: Managed Service Operation Intern
@@ -150,14 +155,6 @@ summary: |2-
   summary: |2-
     To streamline hotel operations and user interaction, I developed a Hotel Management System that allows admins and visitors to manage hotel data and bookings. As the developer, I designed and implemented features such as hotel listings, filtering by price, location, and star rating, as well as room booking with voucher-based discounts. The system supports admin-level actions like adding, editing, and deleting hotel data, while enabling users to search, book rooms, and apply promo codes. This project enhanced my understanding of CRUD operations, user role access, and modular system design in Python.
   tech_stack: Python
-
-publications:
-  - title: AI-Generated Text Detector for English Written Essay using Ensemble RoBERTa
-    date: '2025-03-26'
-    publisher: IEEE
-    url: https://doi.org/10.1109/ICADEIS65852.2025.10933353
-    summary: |2-
-      Published a research paper titled "AI-Generated Text Detector for English Written Essay using Ensemble RoBERTa", addressing the challenges posed by the rapid development of Large Language Models (LLMs) in education. While LLMs enhance writing efficiency, they also raise concerns about academic integrity and hinder the development of critical thinking and writing skills in students. This study proposes a machine-learning approach that employs an ensemble of RoBERTa transformer models to distinguish between human-written and AI-generated text in English essays.
 
 ---
 
