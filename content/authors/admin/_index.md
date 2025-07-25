@@ -1,3 +1,4 @@
+---
 # Display name
 title: Annalia Alfia Rahma
 
@@ -10,13 +11,13 @@ last_name: Rahma
 
 # Status emoji
 status:
-  icon: 
+  icon: 📊
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Data Analyst/Data Scientist/ML Engineer
+role: Data Analyst / Data Scientist / ML Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -24,6 +25,7 @@ organizations:
     url: 
 
 # Social network links
+# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
     url: 'mailto:fiaannalia2833@gmail.com'
@@ -39,7 +41,7 @@ education:
   - area: Data Science & Machine Learning
     institution: Purwadhika Digital Technology School
     date_start: 2025-01-01
-    date_end: ''
+    date_end: 'present'
     summary: |
       Focused on data preprocessing, data analysis and visualization, machine learning, and project-based implementation.
 
@@ -48,9 +50,9 @@ education:
     date_start: 2021-09-01
     date_end: 2025-03-01
     summary: |
-    GPA: 3.88/4.00  
-      Thesis on _AI-Generated Text Detector for English Written Essay using Ensemble RoBERTa_. 
-      Supervised by Dr. K. M. Lhaksmana. The research addresses academic integrity concerns in the era of Large Language Models by proposing an ensemble RoBERTa-based classifier. 
+      GPA: 3.88/4.00  
+      Thesis on _AI-Generated Text Detector for English Written Essay using Ensemble RoBERTa_.  
+      Supervised by Dr. K. M. Lhaksmana. The research addresses academic integrity concerns in the era of Large Language Models by proposing an ensemble RoBERTa-based classifier.  
       The paper was published in IEEE and presented at the 2025 International Conference on Advancement in Data Science, E-learning and Information System (ICADEIS).
     button:
       text: 'Read Publication'
@@ -59,6 +61,8 @@ education:
 work:
   - position: Managed Service Operation Intern
     company_name: Telkom Indonesia
+    company_url: ''
+    company_logo: ''
     date_start: 2024-07-01
     date_end: 2024-08-31
     summary: |2-
@@ -68,6 +72,8 @@ work:
 
   - position: UI/UX Designer SIB Batch 6
     company_name: Sanber Foundation
+    company_url: ''
+    company_logo: ''
     date_start: 2024-02
     date_end: 2024-06
     summary: |2-
@@ -77,6 +83,8 @@ work:
 
   - position: Assistant Lecturer – Mathematical Logic & Algorithm Complexity Analysis
     company_name: Telkom University
+    company_url: ''
+    company_logo: ''
     date_start: 2023-10
     date_end: 2024-06
     summary: |2-
@@ -84,30 +92,40 @@ work:
       - Analytical Concept Delivery: Facilitated response classes to explain abstract concepts such as propositional/predicate logic, asymptotic analysis, and optimization techniques, fostering student engagement and analytical thinking.
       - Academic Mentoring: Supported students in developing structured problem-solving approaches and logical frameworks useful in computational thinking and algorithmic efficiency analysis.
 
-   
-- position: UI/UX Designer
+
+  - position: UI/UX Designer
     company_name: LokaUKM
+    company_url: ''
+    company_logo: ''
     date_start: 2023-07
     date_end: 2023-09
     summary: |2-
       - Wireframing & Prototyping: Designed low- to high-fidelity wireframes and interactive prototypes to support user-centered product development.
       - User-Centered Design: Interpreted user requirements and feedback into design improvements, ensuring the final product met both functional and user needs.
 
+
+# Skills
+# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
       - name: Python
+        description: ''
         percent: 100
         icon: devicon/python
       - name: SQL
+        description: ''
         percent: 80
         icon: devicon/mysql
       - name: Tableau
+        description: ''
         percent: 85
         icon: devicon/tableau
       - name: Machine Learning Algorithm
+        description: ''
         percent: 70
         icon: devicon/brain
+
 languages:
   - name: Indonesia
     percent: 100
@@ -128,9 +146,8 @@ projects:
 - title: Customer E-commerce Churn Prediction
   date: '2025-05'
   url: https://github.com/fiaannalia/ecommerce-churn-prediction/tree/main
-summary: |2-
-  Faced with a high churn rate in a competitive e-commerce environment, I developed a machine learning model to identify at-risk customers using demographic, transaction, and interaction data. My role involved preparing the data, training classification models (Logistic Regression, Random Forest, XGBoost), and tuning them based on F2-score to reduce false negatives. As a result, the model reduced potential churn-related losses by over 70%, and the insights were deployed through a Streamlit dashboard to guide data-driven retention strategies.
-
+  summary: |2-
+    Faced with a high churn rate in a competitive e-commerce environment, I developed a machine learning model to identify at-risk customers using demographic, transaction, and interaction data. My role involved preparing the data, training classification models (Logistic Regression, Random Forest, XGBoost), and tuning them based on F2-score to reduce false negatives. As a result, the model reduced potential churn-related losses by over 70%, and the insights were deployed through a Streamlit dashboard to guide data-driven retention strategies.
   tech_stack: Python (Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn), Streamlit
 
 - title: Supermarket Customer Analysis
@@ -140,7 +157,12 @@ summary: |2-
   summary: |2-
     A retail supermarket was looking to improve customer retention and optimize promotional efforts. I was responsible for analyzing customer transaction data to uncover behavioral patterns and segment the customer base. I conducted LRFM modeling and performed statistical analysis to identify key shopping trends and group customers by value and frequency. Based on the findings, I delivered targeted recommendations including loyalty programs, premium product bundling, and reactivation strategies for low-frequency buyers, supporting more data-driven marketing decisions.
   tech_stack: Python (Pandas, NumPy, Seaborn, Matplotlib, SciPy)
-
+  
+- title: AI-Generated Text Detector for English Written Essay using Ensemble RoBERTa
+  date: '2025-03-26'
+  url: https://doi.org/10.1109/ICADEIS65852.2025.10933353
+  summary: |2-
+    I published a research paper titled *"AI-Generated Text Detector for English Written Essay using Ensemble RoBERTa"*, addressing the challenges posed by the rise of LLMs in education. To support academic integrity, I developed an ensemble model of three RoBERTa variants to distinguish between AI-generated and human-written essays. The model achieved a high F1-score of 98.692%, outperforming traditional algorithms and individual models, and was presented at the 2025 ICADEIS conference.
 
 - title: Social Media Behaviour Analysis
   date: '2025-03-01'
@@ -158,5 +180,4 @@ summary: |2-
 
 ---
 
-profile: |2-
-  I am a fresh graduate in Informatics from Telkom University with a strong interest in data analysis and machine learning. I enjoy turning complex data into meaningful insights to support business decisions. Through academic projects and independent learning, I have applied machine learning techniques to solve real-world problems such as customer churn prediction, seller segmentation, and AI text detection.
+I am a fresh graduate in Informatics from Telkom University with a strong interest in data analysis and machine learning. I enjoy turning complex data into meaningful insights to support business decisions. Through academic projects and independent learning, I have applied machine learning techniques to solve real-world problems such as customer churn prediction, seller segmentation, and AI text detection.
