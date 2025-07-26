@@ -132,7 +132,7 @@ languages:
   - name: English
     percent: 75
   - name: German
-    percent: 50
+    percent: 40
 
 awards:
   - title: Customer Segmentation Analysis – Olist E-Commerce
