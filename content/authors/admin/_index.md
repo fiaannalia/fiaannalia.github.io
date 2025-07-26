@@ -136,23 +136,23 @@ languages:
 
 awards:
   - title: Customer Segmentation Analysis – Olist E-Commerce
-    date: '2025-06'
-    date_end: '2025-07'
+    date: '2025-06-01'
+    date_end: '2025-07-01'
     url: https://github.com/fiaannalia/Customer-Segmentation-Analysis-for-Olist-E-Commerce
     summary: |2-
       To help a SaaS-based e-commerce platform optimize revenue, I was tasked with segmenting over 2,900 active sellers to identify behavior patterns. I applied LRFM modeling and KMeans clustering on seller transaction and activity data, then created interactive dashboards to visualize insights. Based on the analysis, I identified four distinct seller segments and proposed tailored subscription plans and marketing strategies. These recommendations projected a potential 38% increase in revenue and R$105K in additional monthly gains.
     tech_stack: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), Tableau, Streamlit
   
   - title: Customer E-commerce Churn Prediction
-    date: '2025-05'
+    date: '2025-05-01'
     url: https://github.com/fiaannalia/ecommerce-churn-prediction/tree/main
     summary: |2-
       Faced with a high churn rate in a competitive e-commerce environment, I developed a machine learning model to identify at-risk customers using demographic, transaction, and interaction data. My role involved preparing the data, training classification models (Logistic Regression, Random Forest, XGBoost), and tuning them based on F2-score to reduce false negatives. As a result, the model reduced potential churn-related losses by over 70%, and the insights were deployed through a Streamlit dashboard to guide data-driven retention strategies.
     tech_stack: Python (Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn), Streamlit
   
   - title: Supermarket Customer Analysis
-    date: '2025-03'
-    date_end: '2025-04'
+    date: '2025-03-01'
+    date_end: '2025-04-01'
     url: https://github.com/fiaannalia/Supermarket-Customer-Analysis
     summary: |2-
       A retail supermarket was looking to improve customer retention and optimize promotional efforts. I was responsible for analyzing customer transaction data to uncover behavioral patterns and segment the customer base. I conducted LRFM modeling and performed statistical analysis to identify key shopping trends and group customers by value and frequency. Based on the findings, I delivered targeted recommendations including loyalty programs, premium product bundling, and reactivation strategies for low-frequency buyers, supporting more data-driven marketing decisions.
@@ -172,7 +172,7 @@ awards:
     tech_stack: Python (Pandas, NumPy, Seaborn, Matplotlib), Tableau
   
   - title: Hotel Management System
-    date: '2025-02'
+    date: '2025-02-01'
     url: https://github.com/fiaannalia/Hotel-Management-System
     summary: |2-
       To streamline hotel operations and user interaction, I developed a Hotel Management System that allows admins and visitors to manage hotel data and bookings. As the developer, I designed and implemented features such as hotel listings, filtering by price, location, and star rating, as well as room booking with voucher-based discounts. The system supports admin-level actions like adding, editing, and deleting hotel data, while enabling users to search, book rooms, and apply promo codes. This project enhanced my understanding of CRUD operations, user role access, and modular system design in Python.
