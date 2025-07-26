@@ -140,7 +140,6 @@ awards:
     date_end: '2025-07-01'
     summary: |-
       To help a SaaS-based e-commerce platform optimize revenue, I was tasked with segmenting over 2,900 active sellers to identify behavior patterns. I applied LRFM modeling and KMeans clustering on seller transaction and activity data, then created interactive dashboards to visualize insights. Based on the analysis, I identified four distinct seller segments and proposed tailored subscription plans and marketing strategies. These recommendations projected a potential 38% increase in revenue and R$105K in additional monthly gains.
-  
     🔗 [Link Project](https://github.com/fiaannalia/Customer-Segmentation-Analysis-for-Olist-E-Commerce)
     tech_stack: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), Tableau, Streamlit
   
